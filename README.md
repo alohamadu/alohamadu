@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🌙 Olá, eu sou a Madu!  
 
-<!--
-**alohamadu/alohamadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** na UNIPÊ  
+💻 Foco em **Python** e **Java** | Interesse em **Ciência de Dados**  
+✨ Em constante aprendizado e construção do meu caminho no universo tech!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python | Java | (aprendendo SQL e lógica de programação)  
+- **Ferramentas:** Git & GitHub | VS Code | Google Colab | Jupyter Notebook  
+- **Interesses:** Ciência de Dados | Inteligência Artificial | Análise de Dados  
+
+---
+
+## 🌱 Atualmente aprendendo
+- Algoritmos e Estruturas de Dados  
+- Estatística aplicada a Dados  
+- Fundamentos de Ciência de Dados  
+
+---
+
+## 📫 Como me encontrar
+- 💼 [[LinkedIn]((https://www.linkedin.com/in/maria-eduarda-borges-2866a637a/))  ]
+- 🖤 GitHub: você já está aqui!  
+
+---
+⭐️ “Acredito que a tecnologia pode transformar realidades quando usada com ética e responsabilidade.”  
