@@ -28,8 +28,10 @@ Meu propósito é unir **conhecimento técnico** com **valores humanos**, como *
 ---
 
 ## 📌 Projetos em Destaque
-- [Calculadora em Python](link) – Praticando lógica de programação  
-- [Mini-projeto de Análise de Dados](link) – Explorando bibliotecas do Python para Data Science  
+
+- 🌸 [Diário de Gratidão](https://github.com/alohamadu/diario-de-gratidao)  
+  Projeto pessoal simples, onde registro reflexões diárias de gratidão.  
+  Esse repositório une prática de GitHub com desenvolvimento pessoal, mostrando que tecnologia também pode ser usada para **autoconhecimento e bem-estar**.
 
 ---
 
